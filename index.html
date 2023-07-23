@@ -15,7 +15,88 @@
 </head>
 
 <body>
-    <h1>Hello World!</h1>
+    <header id="home">
+        <div class="containerHome">
+            <div id=mainHeading>
+                <h1>South West Yoga</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="index.html" aria-label="go to top of page">Home</a></li>
+                    <li><a href="about.html" aria-label="go to about me">About Me</a>
+                    </li>
+                    <li><a href="gallery.html" aria-label="go to gallery">Gallery</a>
+                    </li>
+                    <li><a href="timetable.html" aria-label="go to class timetable">Classes</a></li>
+                </ul>
+            </nav>
+            <div id="socialMedia">
+                <a href="https://www.twitter.com" target="_blank" rel="noopener"
+                    aria-label="Find us on Twitter (link opens in a new tab)"><i class="fa fa-twitter"
+                        style="font-size:30px"></i></a>
+                <a href="https://www.facebook.com" target="_blank" rel="noopener"
+                    aria-label="Find us on Facebook (link opens in a new tab)"><i class="fa fa-facebook"
+                        style="font-size:30px"></i></a>
+                <a href="https://www.instagram.com" target="_blank" rel="noopener"
+                    aria-label="Find us on Instagram (link opens in a new tab)"><i class="fa fa-instagram"
+                        style="font-size:30px"></i></a>
+            </div>
+        </div>
+    </header>
+
+    <section id="banner">
+        <div class="container">
+            <h1>Align Your Mind, Body and Soul</h1>
+            <p>Join us on the beach for your daily dose of Mindfulness!</p>
+        </div>
+    </section>
+
+    <section id="newsletter">
+        <div class="container">
+            <h1>Join Our Newsletter To Stay Updated!</h1>
+            <form>
+                <form method="POST" action="https://southwestyoga--dani93elle.repl.co/">
+                    <input type="text" placeholder="Enter Full Name" name="postdata" aria-label="neter full name here">
+                    <input type="email" placeholder="Enter Email" name="postdata" aria-label="enter email address here">
+                    <input type="submit" label="Subscribe" aria-label="submit details and subscribe to newsletter">
+                </form>
+        </div>
+    </section>
+
+    <section class="benefits">
+        <div class="containerBenefits">
+            <div class="box">
+                <h3>The Benefits of Yoga</h3>
+                <ul class="bullet">
+                    <li>Releives aches and pains</li>
+                    <li>Flows energy through the body</li>
+                    <li>Increases flexibility</li>
+                    <li>Cardio and circulatory health</li>
+                </ul>
+                <a href="timetable.html" class="timetable" aria-label="visit yoga classes timetable"> <strong>Yoga Class
+                        Timetable</strong></a>
+            </div>
+
+            <div class="box">
+                <h3>The Benefits of Meditation</h3>
+                <ul class="bullet">
+                    <li>Clears your mind</li>
+                    <li>Being present in the moment</li>
+                    <li>Promotes better self-awareness</li>
+                    <li>Helps reduce stress</li>
+                </ul>
+                <a href="timetable.html" class="timetable" aria-label="visit meditation classes timetable">
+                    <strong>Meditation Class Timetable</strong></a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Copyright © South West Yoga 2023</p>
+    </footer>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </body>
 
 </html>
