@@ -280,8 +280,8 @@ form input[type="submit"] {
 }
 
 img:hover {
-    opacity: .5;
-    transition: .7s;
+    transform: scale(1.5);
+    transition: .3s;
 }
 
 /*timetables*/
