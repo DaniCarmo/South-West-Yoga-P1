@@ -79,7 +79,7 @@ nav {
 
 #banner {
     min-height: 400px;
-    background-image: url("Site-banner-photos/balance-1.jpg");
+    background-image: url("../images/balance-1.jpg");
     background-repeat: no-repeat;
     text-align: center;
     border-bottom: #F89880 2px solid;
@@ -151,9 +151,10 @@ form input[type="submit"] {
 /* benefits boxes */
 
 .benefits {
-    background-image: url("Site-banner-photos/balance-1.jpg");
+    background-image: url("../images/balance-1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     padding: 10%;
     background-color: #d29b82;
     border-top: #F89880 2px solid;
@@ -225,7 +226,7 @@ form input[type="submit"] {
 
 #aboutPage {
     min-height: 200px;
-    background-image: url("Site-banner-photos/water1.jpg");
+    background-image: url("../images/water-1.jpg");
     background-repeat: no-repeat;
     text-align: center;
     border-top: #F89880 2px solid;
@@ -243,7 +244,8 @@ form input[type="submit"] {
 /*gallery*/
 
 .wrapper {
-    background-image: url("Site-banner-photos/balance-1.jpg");
+    background-image: url("../images/balance-1.jpg");
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #d29b82;
@@ -282,7 +284,8 @@ img:hover {
 /*timetables*/
 
 #table {
-    background-image: url("Site-banner-photos/balance-1.jpg");
+    background-image: url("../images/balance-1.jpg");
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10%;
