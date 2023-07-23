@@ -42,7 +42,8 @@ header {
 
 header a:hover {
     color: #f25278;
-    font-weight: strong;
+    font-weight:bold;
+    text-decoration: underline;
 }
 
 header a {
@@ -50,6 +51,7 @@ header a {
     font-size: 16px;
     text-transform: uppercase;
     font-family: 'Ysabeau Infant', sans-serif;
+    text-decoration: none;
 }
 
 header ul {
