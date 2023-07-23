@@ -215,6 +215,7 @@ form input[type="submit"] {
 
 #main-col p {
     font-family: 'Ysabeau Infant', sans-serif;
+    text-align: justify;
 }
 
 .dark {
@@ -222,6 +223,7 @@ form input[type="submit"] {
     background: #957A81;
     color: white;
     font-family: 'Ysabeau Infant', sans-serif;
+    text-align: justify;
 }
 
 #aboutPage {
@@ -232,12 +234,13 @@ form input[type="submit"] {
     border-top: #F89880 2px solid;
     border-bottom: #F89880 2px solid;
     background-size: cover;
+    background-color: #d29b82;
 }
 
 .large {
     font-size: 30px;
     color: white;
-    padding-top: 60px;
+    padding: 30px;
     font-family: 'Rock Salt', cursive;
 }
 
@@ -369,12 +372,19 @@ footer p {
     #sidebar {
         float: none;
         width: 100%;
-        margin-top: 10px;
+        margin-bottom: 10px;
     }
 
     #main-col {
         float: none;
         width: 100%;
+    }
+
+    #aboutPage {
+        width: 90%;
+        margin: auto;
+        overflow: hidden;
+        
     }
 }
 
