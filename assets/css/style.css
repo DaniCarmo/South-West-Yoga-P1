@@ -6,8 +6,9 @@ body {
     background-color: white;
 }
 
+/* social media links */
 #socialMedia {
-    color: #F89880;
+    color: #f25278;
     float: right;
     margin: 0;
     display: inline;
@@ -18,6 +19,7 @@ body {
     color: #f25278;
 }
 
+/* heading and nav */
 .container {
     width: 90%;
     margin: auto;
@@ -52,6 +54,12 @@ header a {
     text-transform: uppercase;
     font-family: 'Ysabeau Infant', sans-serif;
     text-decoration: none;
+}
+
+.current {
+    color: #f25278;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 header ul {
