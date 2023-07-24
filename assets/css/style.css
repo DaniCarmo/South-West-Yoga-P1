@@ -30,11 +30,11 @@ body {
 }
 
 .containerHome {
-    width: 100%;
+    width: 90%;
     margin: auto;
     overflow: hidden;
     display: flex;
-    align-content: space-between;
+    align-content: center;
 }
 
 header {
@@ -74,7 +74,6 @@ header li {
 }
 
 #mainHeading {
-    float: left;
     text-align: center;
     width: 100%;
 }
@@ -364,6 +363,21 @@ iframe {
     border-bottom: #F89880 2px solid;
 }
 
+.scroll {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    padding: 5px;
+}
+
+.scroll img {
+    width: 60px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
 footer p {
     color: darkslategray;
     background-color: #F89880;
@@ -417,28 +431,17 @@ footer p {
     }
 }
 
-/*
-@media (max-width:3000px) {
-
-    #mainHeading,
-    #socialMedia,
+@media (min-width: 769px) {
     nav {
-        display: flex;
-        justify-content: center;
-        text-align: center;
-        width: 100%;
-     }
-
-    #socialMedia>a {
-        margin: 0 10px 0 10px;
+        justify-content: flex-start;
     }
-} |*/
+
+}
 
 @media (max-width:768px) {
 
     .containerHome {
         display: block;
-        width: 90%;
     }
 
     .box {
@@ -486,10 +489,6 @@ footer p {
     .classHeading,
     .wrapper h1 {
         font-size: 30px;
-    }
-
-    header .containerHome {
-        width: 100%;
     }
 
 }
