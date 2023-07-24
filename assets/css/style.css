@@ -9,10 +9,13 @@ body {
 /* social media links */
 #socialMedia {
     color: #f25278;
-    float: right;
-    margin: 0;
-    display: inline;
+    display: flex;
+    justify-content: center;
     padding-top: 10px;
+}
+
+.mediaIcons {
+    padding: 0 10px;
 }
 
 #socialMedia a:hover {
@@ -27,11 +30,11 @@ body {
 }
 
 .containerHome {
-    width: 90%;
+    width: 100%;
     margin: auto;
     overflow: hidden;
     display: flex;
-    justify-content: space-between;
+    align-content: space-between;
 }
 
 header {
@@ -57,8 +60,6 @@ header a {
 }
 
 .current {
-    color: #f25278;
-    font-weight: bold;
     text-decoration: underline;
 }
 
@@ -68,13 +69,14 @@ header ul {
 }
 
 header li {
-    float: left;
     display: inline;
-    padding: 0 20px 0 20px;
+    padding: 0 10px;
 }
 
 #mainHeading {
     float: left;
+    text-align: center;
+    width: 100%;
 }
 
 header #mainHeading h1 {
@@ -83,7 +85,12 @@ header #mainHeading h1 {
 
 nav {
     margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
+
+/* banner - hero image */
 
 #banner {
     min-height: 400px;
@@ -410,33 +417,28 @@ footer p {
     }
 }
 
-
-@media (max-width:877px) {
+/*
+@media (max-width:3000px) {
 
     #mainHeading,
-    nav,
-    nav li {
-        float: none;
-        text-align: center;
-        width: 100%;
-        padding: 0;
-    }
-
-    #socialMedia {
-        float: none;
+    #socialMedia,
+    nav {
         display: flex;
         justify-content: center;
-    }
+        text-align: center;
+        width: 100%;
+     }
 
     #socialMedia>a {
         margin: 0 10px 0 10px;
     }
-}
+} |*/
 
 @media (max-width:768px) {
 
     .containerHome {
         display: block;
+        width: 90%;
     }
 
     .box {
@@ -484,6 +486,10 @@ footer p {
     .classHeading,
     .wrapper h1 {
         font-size: 30px;
+    }
+
+    header .containerHome {
+        width: 100%;
     }
 
 }
