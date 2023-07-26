@@ -224,7 +224,7 @@ form input[type="submit"] {
 }
 
 #main-col h1 {
-    color: #957A81;
+    color: #705260;
 }
 
 #main-col p {
@@ -234,7 +234,7 @@ form input[type="submit"] {
 
 .dark {
     padding: 15px;
-    background: #957A81;
+    background: #705260;
     color: white;
     font-family: 'Ysabeau Infant', sans-serif;
     text-align: justify;
@@ -242,13 +242,14 @@ form input[type="submit"] {
 
 #aboutPage {
     min-height: 200px;
-    background-image: url("../images/water-1.jpg");
+    background-image: url("../images/man-on-beach.jpg");
     background-repeat: no-repeat;
     text-align: center;
     border-top: #F89880 2px solid;
     border-bottom: #F89880 2px solid;
     background-size: cover;
     background-color: #d29b82;
+    background-position: center;
 }
 
 .large {
