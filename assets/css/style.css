@@ -92,8 +92,9 @@ nav {
 
 #banner {
     min-height: 400px;
-    background-image: url("../images/hero-sunset.jpg");
+    background-image: url("../images/pink-sunset.jpg");
     background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
     border-bottom: #F89880 2px solid;
     background-size: cover;
@@ -164,7 +165,7 @@ form input[type="submit"] {
 /* benefits boxes */
 
 .benefits {
-    background-image: url("../images/hero-sunset.jpg");
+    background-image: url("../images/pink-sunset.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -260,7 +261,7 @@ form input[type="submit"] {
 /*gallery*/
 
 .wrapper {
-    background-image: url("../images/hero-sunset.jpg");
+    background-image: url("../images/pink-sunset.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -300,7 +301,7 @@ img:hover {
 /*timetables*/
 
 #table {
-    background-image: url("../images/hero-sunset.jpg");
+    background-image: url("../images/pink-sunset.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
