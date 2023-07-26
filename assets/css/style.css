@@ -442,11 +442,11 @@ footer p {
     nav {
         justify-content: flex-start;
     }
-    
-    #containerHome {
-        margin-left: 0;
-    }
 
+    #mainHeading {
+        display:flex;
+        justify-content: flex-start;
+    }
 }
 
 @media (max-width:768px) {
