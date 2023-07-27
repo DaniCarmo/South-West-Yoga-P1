@@ -95,13 +95,23 @@ nav {
 /* banner - hero image */
 #banner {
     min-height: 450px;
-    background-image: url("../images/pink-sunset.jpg");
-    background-repeat: no-repeat;
-    background-position: center;
-    text-align: center;
+    width: 100%;
+    background: url("../images/pink-sunset.jpg") no-repeat center;
     border-bottom: #F89880 2px solid;
     background-size: cover;
     background-color: #d29b82;
+    animation-name: zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale (1.2);
+    }
 }
 
 #banner h1 {
