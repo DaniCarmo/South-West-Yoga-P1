@@ -340,10 +340,6 @@ img:hover {
     font-family: 'Permanent Marker', cursive;
 }
 
-.classHeading {
-    color: white;
-}
-
 #classTable {
     grid-template-columns: max-content;
     margin: 0 auto;
