@@ -94,7 +94,7 @@ nav {
 
 /* banner - hero image */
 #banner {
-    min-height: 400px;
+    min-height: 450px;
     background-image: url("../images/pink-sunset.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -371,12 +371,13 @@ tr {
     width: 33.33%;
     color: darkslategray;
 }
-
+/*iframe*/
 iframe {
     border-top: #F89880 2px solid;
     border-bottom: #F89880 2px solid;
 }
 
+/*scroll to top button*/
 .scroll {
     position: fixed;
     bottom: 5px;
@@ -392,6 +393,7 @@ html {
     scroll-behavior: smooth;
 }
 
+/*footer*/
 footer p {
     color: darkslategray;
     background-color: #F89880;
@@ -489,7 +491,8 @@ footer p {
         padding-bottom: 20px;
     }
 
-    .wrapper {
+    .wrapper,
+    #table {
         background-attachment: fixed;
     }
 }
