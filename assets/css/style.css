@@ -75,6 +75,9 @@ header a {
 header ul {
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 header li {
@@ -448,6 +451,7 @@ footer p {
         justify-content: flex-start;
     }
 }
+
 
 @media (max-width:768px) {
 
