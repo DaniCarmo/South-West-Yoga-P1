@@ -354,7 +354,8 @@ td {
 }
 
 tr>th {
-    background-color: #fffde7;
+    background-color: #414141;
+    color: white;
 }
 
 tr {
