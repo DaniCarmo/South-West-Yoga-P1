@@ -81,9 +81,9 @@ You should also mention in this section any interesting bugs or problems you dis
 If this section grows too long, you may want to split it off into a separate file and link to it from here. 
 ## Validation
 ### HTML
-- errors returned after validator?
+Error found on newsletter form html pages, submit button was renamed to subscribe using 'label' attribute instead of 'value', error now fixed
 ### CSS
-- errors returned after validator?
+No errors were returned after passing the website through the W3C CSS Validator.
 ## Browser Compatability
 The website was tested on the following browsers and was responsive and compatible:
 - Google Chrome
@@ -92,7 +92,7 @@ The website was tested on the following browsers and was responsive and compatib
 ## Unfixed Bugs
 All bugs identified were fixed. 
 ## Responsiveness
-xxx
+Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes.
 ## User Stories Testing
 xxx
 ## Manual Testing
