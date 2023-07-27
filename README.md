@@ -90,7 +90,7 @@ The website was tested on the following browsers and was responsive and compatib
 - Mozilla Firefox
 - Microsoft Egde
 ## Unfixed Bugs
-All bugs identified were fixed. 
+All bugs identified were fixed except one, Github does not support the POST action method for the newsletter sign up form, after trouleshooting it was decided to change the method from POST to GET. Troubleshooting Q&As on stackoverflow.com suggested this method for test environments and when not using JS.
 ## Responsiveness
 Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes.
 ## User Stories Testing
