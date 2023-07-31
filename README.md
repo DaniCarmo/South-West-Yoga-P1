@@ -65,8 +65,6 @@ As a returning user I want to:
   
 ### Timetables
 
-![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
-
 - This page will allow the user to view the weekly timetables for both yoga and meditation classes, the timetables are easily laid out to provide good user experience and the newsletter bar is again featured here to encourage the user to sign up for more news and announcements.
   
 ### iframe
@@ -207,22 +205,22 @@ Be able to easily identify the purpose of the site. The user can identify what t
 ![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
 Find class timetables quickly and effortlessly. This is easily carried out by following the link to timetables in both the nav bar and benefits boxes.
 ![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
-![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/gallery.PNG?raw=true)
+![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
 View the website on both mobile and desktop devices. The site is fully repsonsive on various mobile, tablet and desktop devices, as per screen shots provided in seprate file.
 
 Get a sense of community and welcoming from the South West Yoga group. The user can get a sense of community via the gallery page as well as the About page which has more information on the teacher and group facilitator, providing a brief background helps make that connection with the user.
 ![about-pg](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/about-pg.PNG?raw=true)
+![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/gallery.PNG?raw=true)
 Interact with SWY by following on the various social media platforms and signing up to the newsletter. Users can click on the social media links in the nav bar to follow SWY on Twitter, Instagram and Facebook, as well as sign up to the newsletter which is also a feature on all pages to encourage the user to sign up and participate.
 ![newsletter](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/newsletter.PNG?raw=true)
 
 As a returning user I want to:
 
-Check to see if there are any new photos from the clubs activities. This can be done via the newsletter and blog which will be a future feature, which will have regular updates, as well as checking out the gallery page for new pictures.
-Find class timetables quickly and effortlessly. The user can identify the timetable page easily as well as any updates via the newsletter subscription.
-View the website on both mobile and desktop devices.
+- Check to see if there are any new photos from the clubs activities. This can be done via the newsletter and blog which will be a future feature, which will have regular updates, as well as checking out the gallery page for new pictures.
+- Find class timetables quickly and effortlessly. The user can identify the timetable page easily as well as any updates via the newsletter subscription.
+- View the website on both mobile and desktop devices. As mentioned the site is available to view on all devices and all features are fully responsive.
 
 ## Manual Testing
-
 xxx
 
 # Deployment
