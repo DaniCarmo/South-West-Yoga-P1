@@ -27,7 +27,7 @@ As a returning user I want to:
 
 # Features
 
-## Existing features:
+## Existing features
 
 ### Navigation Bar
 
@@ -57,8 +57,6 @@ As a returning user I want to:
 - The aside talks a little about Mindfulness and the importance of daily practice, the layout draws the users eye down through the page in a gentle way and across the page when viewed on desktop. This section is to provide the user with some more benefits of introducing yoga and meditation in to your daily life, reiterating the benefits section on the Home page, and encouraging the user to become a SWY member.
   
 ### Gallery
-
-
 
 - The gallery will provide the user with fun and informative supporting images to see what the meet ups look like.
 - This section is valuable to the user as they will be able to easily understand what the classes look like and what they involve, as well as showcasing the various events throughout the year.
@@ -216,6 +214,16 @@ As a returning user I want to:
 
 Manual testing was carried out on all elements and features of the site, ensuring no divs overlapped, all internal and external links worked correclty and followed the correct path, and also all elements remain on screen and are legible on all device widths.
 
+| Feature              | Expected                                                                                                                                        | Action                                                                                             | Result                                                                                                                                    |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Nav Bar Headings     | When clicked user is brought to desired page                                                                                                    | Clicked Home, About, Gallery and Classes on nav bar                                                | Each time was brought to the correct page                                                                                                 |
+| Social Media Icons   | When clicked user is brought to an external link to the home page of the social media sites                                                     | Clicked on the Twitter, Instagram and Facebook icons                                               | Each time was brought to the correct page                                                                                                 |
+| Newsletter sign up   | Email input should only accept email addresses and not random input and when user click subscrive they are brought back to home page of website | Entered a name in to the email address bar and then entered proper email address                   | Notification of an invalid email address poppeed up, I then entered an email address and clicked submit and was brought back to home page |
+| Benefits boxes       | When link to timetable classes are clicked user is brought to classes page                                                                      | Clicked on both yoga and meditation class timetable links                                          | Was brought to the Classes page to the timetables                                                                                         |
+| Gallery              | When image is clicked it gets bigger x 1.5                                                                                                      | Clicked on images in gallery                                                                       | Images got bigger - came forward as expected                                                                                              |
+| iframe               | Is respsonsive to zooming in and out and can be clicked to take user to google maps external page                                               | Zoomed in and out and moved around on the maps iframe, and clicked on the "View larger map" button | Map moved in and out as desired and external Google maps link opened                                                                      |
+| Scroll to top button | When clicked the user is brought to the top of the current page                                                                                 | Clicked on button when viewing on mobile in each page                                              | Brought to the top of the current page using smooth scroll feature                                                                        |
+
 # Deployment
 
 ## Navigate to the GitHub Repository
@@ -232,9 +240,10 @@ Manual testing was carried out on all elements and features of the site, ensurin
 
 - The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement flexbox gallery grid on the Gallery page was taken from: https://www.youtube.com/@Divinector  
-- Instructions on how to create timetable on the Classes page was taken from: https://www.youtube.com/@GreatStackDev  
-- The icons in the footer were taken from Font Awesome
-  
+- Instructions on how to create timetable on the Classes page was taken from: https://www.youtube.com/@GreatStackDev 
+- Utilised W3 Schools and StackOverflow websites for troubleshooting throughout the project
+
 ## Media
 
-- The photos used throughout the website were downloaded from Pexels.com  
+- The photos used throughout the website were downloaded from Pexels.com
+- The social media icons in the header were taken from Font Awesome
