@@ -167,7 +167,7 @@ form input[type="submit"] {
 /* benefits boxes */
 
 .benefits {
-    background-image: url("../images/pink-sunset.jpg");
+    background-image: url("../images/pink-sunset.webp");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -272,7 +272,7 @@ form input[type="submit"] {
 /*gallery*/
 
 .wrapper {
-    background-image: url("../images/pink-sunset.jpg");
+    background-image: url("../images/pink-sunset.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -313,7 +313,7 @@ img:hover {
 /*timetables*/
 
 #table {
-    background-image: url("../images/pink-sunset.jpg");
+    background-image: url("../images/pink-sunset.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
