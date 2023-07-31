@@ -1,152 +1,249 @@
 # South West Yoga
+
 ![responsive](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/responsive.PNG?raw=true)
+
 # Table of Contents
+
 # Introduction
+
 SWY is for people based in County Kerry, who are of all ages and abilities and would like to practice yoga and meditation with some like-minded individuals in a relaxed beach environment. It is a community of open and friendly people who will always welcome new commers. This website is to provide a fun and friendly vibe for those involved and to be inviting to those who may wish to participate and join our community, with some photos of past classes and events, as well as easy to read timetables and a map to our location. The site is targeted at someone who wishes to participate in yoga and meditation at an easy going pace, with no pressure to have previous knowledge or experience.
+
 # User Goals and Stories
-As a first-time user I want to: 
-- Easily navigate through the site and learn more about the benefits of mindfulness, namely yoga and meditation 
-- Be able to easily identify the purpose of the site 
-- Find class timetables quickly and effortlessly 
-- View the website on both mobile and desktop devices 
-- Get a sense of community and welcoming from the South West Yoga group 
+
+As a first-time user I want to:
+
+- Easily navigate through the site and learn more about the benefits of mindfulness, namely yoga and meditation
+- Be able to easily identify the purpose of the site
+- Find class timetables quickly and effortlessly
+- View the website on both mobile and desktop devices
+- Get a sense of community and welcoming from the South West Yoga group
 - Interact with SWY by following on the various social media platforms and signing up to the newsletter
 
-As a returning user I want to: 
-- Check to see if there are any new photos from the clubs activities 
-- Find class timetables quickly and effortlessly 
-- View the website on both mobile and desktop devices 
+As a returning user I want to:
+
+- Check to see if there are any new photos from the clubs activities
+- Find class timetables quickly and effortlessly
+- View the website on both mobile and desktop devices
+
 # Features
+
 ## Existing features:
+
 ### Navigation Bar
-![header-navbar](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/header-navbar.PNG?raw=true)
-- Featured on all of the four pages, the full responsive navigation bar includes links to the Home page, About us, Gallery, Class Timetable page as well as links to social media profiles. It is identical in each page to allow for easy navigation. 
-- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+
+- Featured on all of the four pages, the full responsive navigation bar includes links to the Home page, About us, Gallery, Class Timetable page as well as links to social media profiles. It is identical in each page to allow for easy navigation.
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  
 ### Home Page Banner
-![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
-- The landing includes a photograph with text overlay to show the user the logo with a catchline, to emphasize what South West Yoga aims to do. 
-- This section introduces the user to South West Yoga with a gentle pastel color scheme and images to create a fun and relaxed vibe, that follows across the site. 
+
+- The landing includes a photograph with text overlay to show the user the logo with a catchline, to emphasize what South West Yoga aims to do.
+- This section introduces the user to South West Yoga with a gentle pastel color scheme and images to create a fun and relaxed vibe, that follows across the site.
+  
 ### Newsletter sign up
-![newsletter](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/newsletter.PNG?raw=true)
-- This bar will appear on all pages of the site to encourage the user to sign up to a newsletter to stay updated on class timetable updates or find out about events and news. This bar mimics the header and nav bar section to provide a better user experience as the user can easily identify where to sign up. 
+
+- This bar will appear on all pages of the site to encourage the user to sign up to a newsletter to stay updated on class timetable updates or find out about events and news. This bar mimics the header and nav bar section to provide a better user experience as the user can easily identify where to sign up.
+  
 ### Benefits Section
-![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
-- This user will see the value of participating in South West yoga classes and what they could gain from their experience. This should encourage the user to sign up to our newsletter to stay updated and click on the timetable links available in the benefit boxes to check out class times. 
-- This section also recycles the same homepage image from the top of the page so this landing page has a seamless flow and is easy on the eye for the user. 
+
+- This user will see the value of participating in South West yoga classes and what they could gain from their experience. This should encourage the user to sign up to our newsletter to stay updated and click on the timetable links available in the benefit boxes to check out class times.
+- This section also recycles the same homepage image from the top of the page so this landing page has a seamless flow and is easy on the eye for the user.
+  
 ### About Page
-![about-pg](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/about-pg.PNG?raw=true)
-- This page holds the main header again to show the flow of the whole site. The About section gives the user an insight in to the life of our South West Yoga teacher and group facilitator, bringing the user closer to the experience and building a bond. 
+
+- This page holds the main header again to show the flow of the whole site. The About section gives the user an insight in to the life of our South West Yoga teacher and group facilitator, bringing the user closer to the experience and building a bond.
+  
 ### Aside
+
 - The aside talks a little about Mindfulness and the importance of daily practice, the layout draws the users eye down through the page in a gentle way and across the page when viewed on desktop. This section is to provide the user with some more benefits of introducing yoga and meditation in to your daily life, reiterating the benefits section on the Home page, and encouraging the user to become a SWY member.
+  
 ### Gallery
-![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/gallery.PNG?raw=true)
-- The gallery will provide the user with fun and informative supporting images to see what the meet ups look like. 
-- This section is valuable to the user as they will be able to easily understand what the classes look like and what they involve, as well as showcasing the various events throughout the year. 
+
+
+
+- The gallery will provide the user with fun and informative supporting images to see what the meet ups look like.
+- This section is valuable to the user as they will be able to easily understand what the classes look like and what they involve, as well as showcasing the various events throughout the year.
+  
 ### Timetables
+
 ![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
-- This page will allow the user to view the weekly timetables for both yoga and meditation classes, the timetables are easily laid out to provide good user experience and the newsletter bar is again featured here to encourage the user to sign up for more news and announcements. 
+
+- This page will allow the user to view the weekly timetables for both yoga and meditation classes, the timetables are easily laid out to provide good user experience and the newsletter bar is again featured here to encourage the user to sign up for more news and announcements.
+  
 ### iframe
+
 ![iframe](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/iframe.PNG?raw=true)
-- The fourth page also contains a Google maps iframe, this is to provide the user with more information as to where Banna beach is located if they are unfamiliar with the location; this enriches the site and provide more context to the user about the group and beach activities. 
+
+- The fourth page also contains a Google maps iframe, this is to provide the user with more information as to where Banna beach is located if they are unfamiliar with the location; this enriches the site and provide more context to the user about the group and beach activities.
+  
 ### Scroll to Top Button
+
 ![scroll](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/back-to-top.PNG?raw=true)
+
 - This feature will exist on the bottom of all pages and allow the user to jump to the top of the page, which is very helpful when viewing on mobile or smaller tablet screens.
-## Future Features:
+  
+## Future Features
+
 ### Online class booking system
+
 - An online booking system could be introduced in the future, this will enable participants to view any live updates to class times, as well as limit the classes to a maximum number. This will also support the group facilitator with identifying class numbers and preparing sessions in advance, identifying popular class times and recognizing in advance when a new member will be joining the class.
+  
 ### Blog
-The addition of a blog to the site would engage the user more and create more of a relationship bewteen the user and the site/business. A blog that is regularly updated and linked to the site would be a future feature that would enhance the user experience and provide more content to the website. 
+
+The addition of a blog to the site would engage the user more and create more of a relationship bewteen the user and the site/business. A blog that is regularly updated and linked to the site would be a future feature that would enhance the user experience and provide more content to the website.
+
 # Design of Website
-## Wireframes 
+
+## Wireframes
+
 ### Home Page
+
 ![homepage-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/1-Homepage%20Mobile.png?raw=true)
 ![homepage-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/1-Homepage%20Tablet.png?raw=true)
 ![homepage-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/1-Homepage%20Desktop.png?raw=true)
 
 ### About Page
+
 ![about-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/2-About-Me%20Mobile.png?raw=true)
 ![about-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/2-About-Me%20Tablet.png?raw=true)
 ![about-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/2-About-Me%20Desktop.png?raw=true)
 
 ### Gallery
+
 ![gallery-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/3-Gallery%20Mobile.png?raw=true)
 ![gallery-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/3-Gallery%20Tablet.png?raw=true)
 ![gallery-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/3-Gallery%20Desktop.png?raw=true)
 
 ### Classes
+
 ![classes-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/4-Classes%20Mobile.png?raw=true)
 ![classes-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/4-Class%20Tablet.png?raw=true)
 ![classes-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/4-Class%20Desktop.png?raw=true)
 
 ## Fonts
-The fonts for the site came from https://fonts.googleapis.com 
 
-The name and headings are Permanent Marker, while the smaller body text is Ysabeau Infant. 
+The fonts for the site came from https://fonts.googleapis.com
 
-Permanent Marker offers an informal touch to the site and the rounded edges give a playful feel to the whole site. Ysabeau Infant pairs well with Permanent Marker as both have the rounded edges and informal style, while Ysabeau works well with the smaller text and is very easy to read. 
+The name and headings are Permanent Marker, while the smaller body text is Ysabeau Infant.
+
+Permanent Marker offers an informal touch to the site and the rounded edges give a playful feel to the whole site. Ysabeau Infant pairs well with Permanent Marker as both have the rounded edges and informal style, while Ysabeau works well with the smaller text and is very easy to read.
+
 ## Color Scheme
-The color scheme is based around a sunset, bringing in orange and pinks creates that sunset beach vibes that are being conveyed to the user. The colors provide a fun yet and serene viewing experience. The color scheme is by choice minimalist with the same colors used throughout the website, in keeping with the overall mood of a beach sunset. The background is a neutral white which in contrast to the soft oranges and pinks, provides a fresh and modern aspect to the website. 
+
+The color scheme is based around a sunset, bringing in orange and pinks creates that sunset beach vibes that are being conveyed to the user. The colors provide a fun yet and serene viewing experience. The color scheme is by choice minimalist with the same colors used throughout the website, in keeping with the overall mood of a beach sunset. The background is a neutral white which in contrast to the soft oranges and pinks, provides a fresh and modern aspect to the website.
+
 ## Images
-All images were downloaded from Pexel. The main image used for the homepage banner, gallery and timetable backgrounds is a serene pink and purple hue picture of a sky mirrored in still water below. 
 
-There is also a water image on the About page which is a blue aqua color and provides a nice contrast to the normal color scheme of the page and breaks up the more gentle colors, providing an eye-catching pop of color that isn’t too harsh. 
+All images were downloaded from Pexel. The main image used for the homepage banner, gallery and timetable backgrounds is a serene pink and purple hue picture of a sky mirrored in still water below.
 
-The Gallery page also has images from Pexel that show people practicing yoga and meditation on the beach, both solo and in groups, as well as friendly get togethers on the beach with food and music, to evoke a sense of community to the user. 
+There is also a water image on the About page which is a blue aqua color and provides a nice contrast to the normal color scheme of the page and breaks up the more gentle colors, providing an eye-catching pop of color that isn’t too harsh.
+
+The Gallery page also has images from Pexel that show people practicing yoga and meditation on the beach, both solo and in groups, as well as friendly get togethers on the beach with food and music, to evoke a sense of community to the user.
+
 # Languages
-The two languages used are HTML and CSS. 
+
+The two languages used are HTML and CSS.
+
 # Technologies used
-- Wireframe.cc was used to create the wireframes 
-- Google Fonts was used for the fonts 
-- Fontawesome was used for the social media icons 
-- Google maps was used to provide a map link 
-- Github was used for hosting the site and storing the data and files 
+
+- Wireframe.cc was used to create the wireframes
+- Google Fonts was used for the fonts
+- Fontawesome was used for the social media icons
+- Google maps was used to provide a map link
+- Github was used for hosting the site and storing the data and files
 - Google Chrome Developer Tools were used throughout to inspect elements and assist with troubleshooting and debugging
-- Image Color Picker (https://imagecolorpicker.com/en) was used to get color from banner image to use as background color in case of image failing to load, as the text is white so a colored background is required 
+- Image Color Picker (https://imagecolorpicker.com/en) was used to get color from banner image to use as background color in case of image failing to load, as the text is white so a colored background is required
+  
 # Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals. 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes. 
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet. 
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here. 
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
 ## Validation
+
 ### HTML
+
 Error found on newsletter form html pages, submit button was renamed to subscribe using 'label' attribute instead of 'value', error now fixed
+
 ### CSS
+
 No errors were returned after passing the website through the W3C CSS Validator.
+
 ## Browser Compatability
+
 The website was tested on the following browsers and was responsive and compatible:
+
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Egde
+
 ## Unfixed Bugs
+
 All bugs identified were fixed except one, Github does not support the POST action method for the newsletter sign up form, after trouleshooting it was decided to change the method from POST to GET. Troubleshooting Q&As on stackoverflow.com suggested this method for test environments and when not using JS.
+
 ## Responsiveness
+
 Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked here as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen.
 
 Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by adding a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
+
 Before LCP preload was initiated:
 (image)
+
 After LCP preload was initiated:
 (image)
+
 ## User Stories Testing
-xxx
+
+As a first-time user I want to:
+
+Easily navigate through the site and learn more about the benefits of mindfulness, namely yoga and meditation. This is carried out via the nav bar which is dsplayed at the top of all four pages.
+![header-navbar](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/header-navbar.PNG?raw=true)
+Be able to easily identify the purpose of the site. The user can identify what this site is about from the name South West Yoga as well as the home page banner which mentions mindfulness and joining the classes on the beach.
+![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
+Find class timetables quickly and effortlessly. This is easily carried out by following the link to timetables in both the nav bar and benefits boxes.
+![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
+![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/gallery.PNG?raw=true)
+View the website on both mobile and desktop devices. The site is fully repsonsive on various mobile, tablet and desktop devices, as per screen shots provided in seprate file.
+
+Get a sense of community and welcoming from the South West Yoga group. The user can get a sense of community via the gallery page as well as the About page which has more information on the teacher and group facilitator, providing a brief background helps make that connection with the user.
+![about-pg](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/about-pg.PNG?raw=true)
+Interact with SWY by following on the various social media platforms and signing up to the newsletter. Users can click on the social media links in the nav bar to follow SWY on Twitter, Instagram and Facebook, as well as sign up to the newsletter which is also a feature on all pages to encourage the user to sign up and participate.
+![newsletter](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/newsletter.PNG?raw=true)
+
+As a returning user I want to:
+
+Check to see if there are any new photos from the clubs activities. This can be done via the newsletter and blog which will be a future feature, which will have regular updates, as well as checking out the gallery page for new pictures.
+Find class timetables quickly and effortlessly. The user can identify the timetable page easily as well as any updates via the newsletter subscription.
+View the website on both mobile and desktop devices.
+
 ## Manual Testing
+
 xxx
+
 # Deployment
-## Navigate to the GitHub Repository:
+
+## Navigate to the GitHub Repository
+
 1. Click the 'Settings' Tab.
 2. Scroll Down to the Git Hub Pages Heading.
 3. Select 'Master Branch' as the source.
 4. Click the Save button.
-5. Click on the link to go to the live deployed page.
-   Link to live wesbite: xxx
+5. Click on the link to go to the live deployed page. Link to live wesbite: <https://danicarmo.github.io/South-West-Yoga-P1/>
+
 # Credits
-## Content 
-- The text for the Home page was taken from Wikipedia Article A 
+
+## Content
+
+- The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement flexbox gallery grid on the Gallery page was taken from: https://www.youtube.com/@Divinector  
 - Instructions on how to create timetable on the Classes page was taken from: https://www.youtube.com/@GreatStackDev  
-- The icons in the footer were taken from Font Awesome 
-## Media 
+- The icons in the footer were taken from Font Awesome
+  
+## Media
+
 - The photos used throughout the website were downloaded from Pexels.com  
