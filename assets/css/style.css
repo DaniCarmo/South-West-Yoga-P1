@@ -1,6 +1,7 @@
 
 body {
     font-family: 'Permanent Marker', cursive;
+    font-display: swap;
     font-size: 16px;
     background-color: white;
 }
@@ -42,6 +43,7 @@ header {
     min-height: 70px;
     border-bottom: #f88379 2px solid;
     font-family: 'Permanent Marker', cursive;
+    font-display: swap;
 }
 
 #mainHeading {
@@ -65,6 +67,7 @@ header a {
     font-size: 16px;
     text-transform: uppercase;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
     text-decoration: none;
 }
 
@@ -108,6 +111,7 @@ nav {
     margin-bottom: 10px;
     font-size: 40px;
     font-family: 'Permanent Marker', cursive;
+    font-display: swap;
     color: white;
     padding-top: 15px;
 }
@@ -115,6 +119,7 @@ nav {
 #banner p {
     font-size: 20px;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
     color: white;
 }
 
@@ -162,6 +167,7 @@ form input[type="submit"] {
     color: darkslategray;
     font-weight: bold;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
 }
 
 /* benefits boxes */
@@ -190,6 +196,7 @@ form input[type="submit"] {
 .bullet {
     text-align: left;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
 }
 
 .box {
@@ -206,6 +213,7 @@ form input[type="submit"] {
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
 }
 
 .box a:hover {
@@ -239,6 +247,7 @@ form input[type="submit"] {
 
 #main-col p {
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
     text-align: justify;
 }
 
@@ -247,6 +256,7 @@ form input[type="submit"] {
     background: #705260;
     color: white;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
     text-align: justify;
 }
 
@@ -267,6 +277,7 @@ form input[type="submit"] {
     color: white;
     padding: 30px;
     font-family: 'Rock Salt', cursive;
+    font-display: swap;
 }
 
 /*gallery*/
@@ -331,6 +342,7 @@ img:hover {
     text-align: center;
     color: white;
     font-family: 'Ysabeau Infant', sans-serif;
+    font-display: swap;
 }
 
 .borderHeading {
@@ -338,6 +350,7 @@ img:hover {
     font-weight: bold;
     text-transform: uppercase;
     font-family: 'Permanent Marker', cursive;
+    font-display: swap;
 }
 
 #classTable {
