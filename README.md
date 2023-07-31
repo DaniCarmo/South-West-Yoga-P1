@@ -19,26 +19,34 @@ As a returning user I want to:
 # Features
 ## Existing features:
 ### Navigation Bar
+![header-navbar](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/header-navbar.PNG?raw=true)
 - Featured on all of the four pages, the full responsive navigation bar includes links to the Home page, About us, Gallery, Class Timetable page as well as links to social media profiles. It is identical in each page to allow for easy navigation. 
 - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 ### Home Page Banner
+![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
 - The landing includes a photograph with text overlay to show the user the logo with a catchline, to emphasize what South West Yoga aims to do. 
 - This section introduces the user to South West Yoga with a gentle pastel color scheme and images to create a fun and relaxed vibe, that follows across the site. 
 ### Newsletter sign up
+![newsletter](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/newsletter.PNG?raw=true)
 - This bar will appear on all pages of the site to encourage the user to sign up to a newsletter to stay updated on class timetable updates or find out about events and news. This bar mimics the header and nav bar section to provide a better user experience as the user can easily identify where to sign up. 
 ### Benefits Section
+![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
 - This user will see the value of participating in South West yoga classes and what they could gain from their experience. This should encourage the user to sign up to our newsletter to stay updated and click on the timetable links available in the benefit boxes to check out class times. 
 - This section also recycles the same homepage image from the top of the page so this landing page has a seamless flow and is easy on the eye for the user. 
 ### About Page
+![about-pg](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/about-pg.PNG?raw=true)
 - This page holds the main header again to show the flow of the whole site. The About section gives the user an insight in to the life of our South West Yoga teacher and group facilitator, bringing the user closer to the experience and building a bond. 
 ### Aside
 - The aside talks a little about Mindfulness and the importance of daily practice, the layout draws the users eye down through the page in a gentle way and across the page when viewed on desktop. This section is to provide the user with some more benefits of introducing yoga and meditation in to your daily life, reiterating the benefits section on the Home page, and encouraging the user to become a SWY member.
 ### Gallery
+![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/gallery.PNG?raw=true)
 - The gallery will provide the user with fun and informative supporting images to see what the meet ups look like. 
 - This section is valuable to the user as they will be able to easily understand what the classes look like and what they involve, as well as showcasing the various events throughout the year. 
 ### Timetables
+![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
 - This page will allow the user to view the weekly timetables for both yoga and meditation classes, the timetables are easily laid out to provide good user experience and the newsletter bar is again featured here to encourage the user to sign up for more news and announcements. 
 ### iframe
+![iframe](image.png)
 - The fourth page also contains a Google maps iframe, this is to provide the user with more information as to where Banna beach is located if they are unfamiliar with the location; this enriches the site and provide more context to the user about the group and beach activities. 
 ### Scroll to Top Button
 - This feature will exist on the bottom of all pages and allow the user to jump to the top of the page, which is very helpful when viewing on mobile or smaller tablet screens.
