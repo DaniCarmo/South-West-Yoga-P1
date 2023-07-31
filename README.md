@@ -153,14 +153,6 @@ The two languages used are HTML and CSS.
   
 # Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
 ## Validation
 
 ### HTML
@@ -221,7 +213,8 @@ As a returning user I want to:
 - View the website on both mobile and desktop devices. As mentioned the site is available to view on all devices and all features are fully responsive.
 
 ## Manual Testing
-xxx
+
+Manual testing was carried out on all elements and features of the site, ensuring no divs overlapped, all internal and external links worked correclty and followed the correct path, and also all elements remain on screen and are legible on all device widths.
 
 # Deployment
 
