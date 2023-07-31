@@ -7,7 +7,7 @@ body {
 
 /* social media links */
 #socialMedia {
-    color: #f25278;
+    color: #ff6458;
     display: flex;
     justify-content: center;
     padding-top: 10px;
@@ -37,10 +37,10 @@ body {
 }
 
 header {
-    color: #F89880;
+    color: #ff6458;
     padding-top: 30px;
     min-height: 70px;
-    border-bottom: #F89880 2px solid;
+    border-bottom: #ff6458 2px solid;
     font-family: 'Permanent Marker', cursive;
 }
 
@@ -61,7 +61,7 @@ header a:hover {
 }
 
 header a {
-    color: #F89880;
+    color: #ff6458;
     font-size: 16px;
     text-transform: uppercase;
     font-family: 'Ysabeau Infant', sans-serif;
@@ -98,9 +98,9 @@ nav {
     
     text-align: center;
     background: url("../images/pink-sunset.webp") no-repeat center;
-    border-bottom: #F89880 2px solid;
+    border-bottom: #ff6458 2px solid;
     background-size: cover;
-    background-color: #d29b82;
+    background-color: #ff6458;
 }
 
 #banner h1 {
@@ -121,7 +121,7 @@ nav {
 /* newsletter bar */
 #newsletter {
     padding: 10px;
-    color: #F89880;
+    color: #ff6458;
 
 }
 
@@ -142,21 +142,21 @@ form input[type="text"] {
     padding: 4px;
     height: 25px;
     width: 200px;
-    border: 1px solid #F89880
+    border: 1px solid #ff6458
 }
 
 form input[type="email"] {
     padding: 4px;
     height: 25px;
     width: 200px;
-    border: 1px solid #F89880
+    border: 1px solid #ff6458
 }
 
 form input[type="submit"] {
     padding: 4px;
     height: 35px;
-    background: #F89880;
-    border: #F89880 3px solid;
+    background: #ff6458;
+    border: #ff6458 3px solid;
     padding-left: 20px;
     padding-right: 20px;
     color: darkslategray;
@@ -172,9 +172,9 @@ form input[type="submit"] {
     background-size: cover;
     background-position: center;
     padding: 10%;
-    background-color: #d29b82;
-    border-top: #F89880 2px solid;
-    border-bottom: #F89880 2px solid;
+    background-color: #ff6458;
+    border-top: #ff6458 2px solid;
+    border-bottom: #ff6458 2px solid;
 }
 
 .containerBenefits {
@@ -209,7 +209,7 @@ form input[type="submit"] {
 }
 
 .box a:hover {
-    color: #F89880
+    color: #ff6458
 }
 
 /*about me page*/
@@ -255,10 +255,10 @@ form input[type="submit"] {
     background-image: url("../images/man-on-beach.webp");
     background-repeat: no-repeat;
     text-align: center;
-    border-top: #F89880 2px solid;
-    border-bottom: #F89880 2px solid;
+    border-top: #ff6458 2px solid;
+    border-bottom: #ff6458 2px solid;
     background-size: cover;
-    background-color: #d29b82;
+    background-color: #ff6458;
     background-position: center bottom;
 }
 
@@ -276,8 +276,8 @@ form input[type="submit"] {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: #d29b82;
-    border-bottom: #F89880 2px solid;
+    background-color: #ff6458;
+    border-bottom: #ff6458 2px solid;
 }
 
 .wrapper h1 {
@@ -318,8 +318,8 @@ img:hover {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10%;
-    background-color: #d29b82;
-    border-bottom: #F89880 2px solid;
+    background-color: #ff6458;
+    border-bottom: #ff6458 2px solid;
 }
 
 .containerTable {
@@ -351,7 +351,7 @@ img:hover {
 
 th,
 td {
-    border: 1.5px solid #F89880;
+    border: 1.5px solid #ff6458;
     padding: 5px;
     text-align: left;
     background-color: #FCFBFC;
@@ -368,8 +368,8 @@ tr {
 }
 /*iframe*/
 iframe {
-    border-top: #F89880 2px solid;
-    border-bottom: #F89880 2px solid;
+    border-top: #ff6458 2px solid;
+    border-bottom: #ff6458 2px solid;
 }
 
 /*scroll to top button*/
@@ -387,7 +387,7 @@ html {
 /*footer*/
 footer p {
     color: darkslategray;
-    background-color: #F89880;
+    background-color: #ff6458;
     margin-top: 20px;
     padding: 20px;
     text-align: center;
