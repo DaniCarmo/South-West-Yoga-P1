@@ -53,7 +53,9 @@ As a returning user I want to:
 - This feature will exist on the bottom of all pages and allow the user to jump to the top of the page, which is very helpful when viewing on mobile or smaller tablet screens.
 ## Future Features:
 ### Online class booking system
-- An online booking system could be introduced in the future, this will enable participants to view any live updates to class times, as well as limit the classes to a maximum number. This will also support the group facilitator with identifying class numbers and preparing sessions in advance, identifying popular class times and recognizing in advance when a new member will be joining the class. 
+- An online booking system could be introduced in the future, this will enable participants to view any live updates to class times, as well as limit the classes to a maximum number. This will also support the group facilitator with identifying class numbers and preparing sessions in advance, identifying popular class times and recognizing in advance when a new member will be joining the class.
+### Blog
+The addition of a blog to the site would engage the user more and create more of a relationship bewteen the user and the site/business. A blog that is regularly updated and linked to the site would be a future feature that would enhance the user experience and provide more content to the website. 
 # Design of Website
 ## Wireframes 
 ### Home Page
@@ -121,7 +123,13 @@ The website was tested on the following browsers and was responsive and compatib
 ## Unfixed Bugs
 All bugs identified were fixed except one, Github does not support the POST action method for the newsletter sign up form, after trouleshooting it was decided to change the method from POST to GET. Troubleshooting Q&As on stackoverflow.com suggested this method for test environments and when not using JS.
 ## Responsiveness
-Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes.
+Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked here as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen.
+
+Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by adding a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
+Before LCP preload was initiated:
+(image)
+After LCP preload was initiated:
+(image)
 ## User Stories Testing
 xxx
 ## Manual Testing
