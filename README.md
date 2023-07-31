@@ -1,5 +1,5 @@
 # South West Yoga
-![responsive](/workspaces/South-West-Yoga-P1/assets/readme-images/responsive.PNG)
+![responsive](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/responsive.PNG?raw=true)
 # Table of Contents
 # Introduction
 SWY is for people based in County Kerry, who are of all ages and abilities and would like to practice yoga and meditation with some like-minded individuals in a relaxed beach environment. It is a community of open and friendly people who will always welcome new commers. This website is to provide a fun and friendly vibe for those involved and to be inviting to those who may wish to participate and join our community, with some photos of past classes and events, as well as easy to read timetables and a map to our location. The site is targeted at someone who wishes to participate in yoga and meditation at an easy going pace, with no pressure to have previous knowledge or experience.
