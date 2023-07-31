@@ -194,6 +194,7 @@ The two languages used are HTML and CSS.
 - Github was used for hosting the site and storing the data and files
 - Google Chrome Developer Tools were used throughout to inspect elements and assist with troubleshooting and debugging
 - Image Color Picker (https://imagecolorpicker.com/en) was used to get color from banner image to use as background color in case of image failing to load, as the text is white so a colored background is required
+- Onlinecovert.com to convert main large images from .jpg to .webp, as suggested by prompt after Lighthouse analysis in dev tools testing
   
 # Testing
 
