@@ -4,6 +4,49 @@
 
 # Table of Contents
 
+* [Introduction](# Introduction)
+* [User Goals and Stories](# User Goals and Stories)
+* [Features](# Features)
+    *[Existing features](## Existing features)
+        *[Navigation Bar] (### Navigation Bar)
+        *[Home Page Banner](### Home Page Banner)
+        *[Newsletter sign up](### Newsletter sign up)
+        *[Benefits Section](### Benefits Section)
+        *[About page](### About Page)
+        *[Aside](### Aside)
+        *[Gallery](### Gallery)
+        *[Timetables](### Timetables)
+        *[iframe](### iframe)
+        *[Scroll to Top Button](### Scroll to Top Button)
+    *[Future features](## Future features)
+        *[Online class booking system] (### Online class booking system)
+        *[Blog](### Blog)
+* [Design of Website](# Design of Website)
+    *[Wireframes](## Wireframes)
+        *[Home Page] (### Home Page)
+        *[About Page] (### About Page)
+        *[Gallery] (### Gallery)
+        *[Classes] (### Classes)
+    *[Fonts](## Fonts)
+    *[Color Scheme](## Color Scheme)
+    *[Images](## Images)
+* [Languages](# Languages)
+* [Technologies Used](# Technologies Used)
+* [Testing](# Testing)
+    *[Validation](## Validation)
+        *[HTML] (### HTML)
+        *[CSS] (### CSS)
+    *[Browser Compatability](## Browser Compatability)
+    *[Unfixed Bugs](## Unfixed Bugs)
+    *[Responsiveness](## Responsiveness)
+    *[User Stories Testing](## User Stories Testing)
+    *[Manual Testing](## Manual Testing)
+* [Deployment](# Deployment)
+    *[Navigate to GitHub Repository](## Navigate to GitHub Repository)
+* [Credits](# Credits)
+    *[Content](## Content)
+    *[Media](## Media)
+
 # Introduction
 
 SWY is for people based in County Kerry, who are of all ages and abilities and would like to practice yoga and meditation with some like-minded individuals in a relaxed beach environment. It is a community of open and friendly people who will always welcome new commers. This website is to provide a fun and friendly vibe for those involved and to be inviting to those who may wish to participate and join our community, with some photos of past classes and events, as well as easy to read timetables and a map to our location. The site is targeted at someone who wishes to participate in yoga and meditation at an easy going pace, with no pressure to have previous knowledge or experience.
@@ -59,6 +102,7 @@ As a returning user I want to:
 ### Gallery
 
 - The gallery will provide the user with fun and informative supporting images to see what the meet ups look like.
+  
 - This section is valuable to the user as they will be able to easily understand what the classes look like and what they involve, as well as showcasing the various events throughout the year.
   
 ### Timetables
