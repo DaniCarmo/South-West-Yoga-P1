@@ -97,7 +97,7 @@ nav {
     min-height: 450px;
     
     text-align: center;
-    background: url("../images/pink-sunset.jpg") no-repeat center;
+    background: url("../images/pink-sunset.webp") no-repeat center;
     border-bottom: #F89880 2px solid;
     background-size: cover;
     background-color: #d29b82;
@@ -378,10 +378,6 @@ iframe {
     bottom: 5px;
     right: 10px;
     padding: 5px;
-}
-
-.scroll img {
-    width: 60px;
 }
 
 html {
