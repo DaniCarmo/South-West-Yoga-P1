@@ -223,7 +223,7 @@ All bugs identified were fixed except one, Github does not support the POST acti
 
 Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked here as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen.
 
-Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by adding a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
+Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by firstly converting the image to a webp file and also adding a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
 
 Before LCP preload was initiated:
 (image)
