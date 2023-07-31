@@ -46,15 +46,36 @@ As a returning user I want to:
 ![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
 - This page will allow the user to view the weekly timetables for both yoga and meditation classes, the timetables are easily laid out to provide good user experience and the newsletter bar is again featured here to encourage the user to sign up for more news and announcements. 
 ### iframe
-![iframe](image.png)
+![iframe](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/iframe.PNG?raw=true)
 - The fourth page also contains a Google maps iframe, this is to provide the user with more information as to where Banna beach is located if they are unfamiliar with the location; this enriches the site and provide more context to the user about the group and beach activities. 
 ### Scroll to Top Button
+![scroll](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/back-to-top.PNG?raw=true)
 - This feature will exist on the bottom of all pages and allow the user to jump to the top of the page, which is very helpful when viewing on mobile or smaller tablet screens.
 ## Future Features:
 ### Online class booking system
 - An online booking system could be introduced in the future, this will enable participants to view any live updates to class times, as well as limit the classes to a maximum number. This will also support the group facilitator with identifying class numbers and preparing sessions in advance, identifying popular class times and recognizing in advance when a new member will be joining the class. 
 # Design of Website
 ## Wireframes 
+### Home Page
+![homepage-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/1-Homepage%20Mobile.png?raw=true)
+![homepage-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/1-Homepage%20Tablet.png?raw=true)
+![homepage-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/1-Homepage%20Desktop.png?raw=true)
+
+### About Page
+![about-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/2-About-Me%20Mobile.png?raw=true)
+![about-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/2-About-Me%20Tablet.png?raw=true)
+![about-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/2-About-Me%20Desktop.png?raw=true)
+
+### Gallery
+![gallery-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/3-Gallery%20Mobile.png?raw=true)
+![gallery-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/3-Gallery%20Tablet.png?raw=true)
+![gallery-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/3-Gallery%20Desktop.png?raw=true)
+
+### Classes
+![classes-mobile](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/4-Classes%20Mobile.png?raw=true)
+![classes-tablet](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/4-Class%20Tablet.png?raw=true)
+![classes-desktop](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/4-Class%20Desktop.png?raw=true)
+
 ## Fonts
 The fonts for the site came from https://fonts.googleapis.com 
 
