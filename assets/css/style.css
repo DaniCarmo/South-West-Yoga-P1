@@ -1,4 +1,4 @@
-
+/*name-logo*/
 body {
     font-family: 'Permanent Marker', cursive;
     font-size: 16px;
@@ -21,7 +21,7 @@ body {
     color: #f25278;
 }
 
-/* heading*/
+/* heading name-logo*/
 .container {
     width: 90%;
     margin: auto;
@@ -56,13 +56,13 @@ header #mainHeading h1 {
 /*navigation*/
 header a:hover {
     color: #f25278;
-    font-weight:bold;
     text-decoration: underline;
 }
 
 header a {
     color: #f88379;
     font-size: 16px;
+    font-weight: bold;
     text-transform: uppercase;
     font-family: 'Ysabeau Infant', sans-serif;
     text-decoration: none;
