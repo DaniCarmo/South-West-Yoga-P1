@@ -146,7 +146,7 @@ nav {
 
 }
 
-#newsletter h1 {
+#newsletter h2 {
     float: left
 }
 
@@ -511,7 +511,7 @@ footer p {
 
 @media (max-width:1124px) {
 
-    #newsletter h1,
+    #newsletter h2,
     #newsletter form {
         float: none;
         text-align: center;
