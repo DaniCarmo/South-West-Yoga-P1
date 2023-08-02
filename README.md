@@ -296,3 +296,4 @@ Manual testing was carried out on all elements and features of the site, ensurin
 
 - The photos used throughout the website were downloaded from Pexels.com
 - The social media icons in the header were taken from Font Awesome
+- Video on the About page is embeded from YouTube
