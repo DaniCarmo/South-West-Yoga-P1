@@ -269,24 +269,7 @@ form input[type="submit"] {
     text-align: justify;
 }
 
-#aboutPage {
-    min-height: 400px;
-    background-image: url("../images/man-on-beach.webp");
-    background-repeat: no-repeat;
-    text-align: center;
-    border-top: #f88379 2px solid;
-    border-bottom: #f88379 2px solid;
-    background-size: cover;
-    background-color: #f88379;
-    background-position: center bottom;
-}
 
-.large {
-    font-size: 30px;
-    color: white;
-    padding: 30px;
-    font-family: 'Rock Salt', cursive;
-}
 
 /*gallery*/
 
