@@ -241,7 +241,7 @@ Easily navigate through the site and learn more about the benefits of mindfulnes
 Be able to easily identify the purpose of the site. The user can identify what this site is about from the name South West Yoga as well as the home page banner which mentions mindfulness and joining the classes on the beach.
 ![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
 The user can also watch a quick video on the benefits of mindfulness including mediation and yoga.
-![video]
+![video](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/video.PNG?raw=true)
 Find class timetables quickly and effortlessly. This is easily carried out by following the link to timetables in both the nav bar and benefits boxes.
 ![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
 ![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
