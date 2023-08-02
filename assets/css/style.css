@@ -114,7 +114,6 @@ nav {
 /* banner - hero image */
 #banner {
     min-height: 450px;
-    
     text-align: center;
     background: url("../images/pink-sunset.webp") no-repeat center;
     border-bottom: #f88379 2px solid;
@@ -439,6 +438,11 @@ footer p {
         margin: auto;
         margin-top: 5px;
     }
+#banner,
+.benefits,
+.wrapper,
+#table {
+    background: url("../images/pink-sunset-small.webp") no-repeat center cover;
 }
 
 @media(min-width:705px) and (max-width: 3000px) {
