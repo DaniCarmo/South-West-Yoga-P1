@@ -438,11 +438,13 @@ footer p {
         margin: auto;
         margin-top: 5px;
     }
-#banner,
-.benefits,
-.wrapper,
-#table {
-    background: url("../images/pink-sunset-small.webp") no-repeat center cover;
+    
+    #banner,
+    .benefits,
+    .wrapper,
+    #table {
+        background: url("../images/pink-sunset-small.webp") no-repeat center cover;
+    }
 }
 
 @media(min-width:705px) and (max-width: 3000px) {
@@ -519,7 +521,6 @@ footer p {
     .wrapper h1 {
         font-size: 30px;
     }
-
 }
 
 @media (min-width:1100px) and (max-width: 3000px) {
