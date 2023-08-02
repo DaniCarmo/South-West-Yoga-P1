@@ -393,6 +393,10 @@ footer p {
     text-align: center;
 }
 
+.youtube-video{
+    aspect-ratio: 16/9; 
+    width: 100%;
+}
 
 /* media queries*/
 
@@ -425,8 +429,7 @@ footer p {
     #aboutPage {
         width: 90%;
         margin: auto;
-        overflow: hidden;
-        
+        overflow: hidden;  
     }
 }
 
