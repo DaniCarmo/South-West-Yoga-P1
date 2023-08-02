@@ -16,6 +16,7 @@
     - [Benefits Section](#benefits-section)
     - [About Page](#about-page)
     - [Aside](#aside)
+    - [Video](#video)
     - [Gallery](#gallery)
     - [Timetables](#timetables)
     - [iframe](#iframe)
@@ -100,6 +101,10 @@ As a returning user I want to:
 ### Aside
 
 - The aside talks a little about Mindfulness and the importance of daily practice, the layout draws the users eye down through the page in a gentle way and across the page when viewed on desktop. This section is to provide the user with some more benefits of introducing yoga and meditation in to your daily life, reiterating the benefits section on the Home page, and encouraging the user to become a SWY member.
+
+### Video
+
+- A video on mindfulness is included in to the about page so the user can have more visual and audio information on the topic and generate interest in the benefits of mindfulness.
   
 ### Gallery
 
@@ -217,8 +222,7 @@ The website was tested on the following browsers and was responsive and compatib
 - Microsoft Egde
 
 ## Unfixed Bugs
-
-All bugs identified were fixed except one, Github does not support the POST action method for the newsletter sign up form, after trouleshooting it was decided to change the method from POST to GET. Troubleshooting Q&As on stackoverflow.com suggested this method for test environments and when not using JS.
+Most bugs identified were fixed. The one identified and unfixed relates to Github not supporting the POST action method for the newsletter sign up form, after trouleshooting it was decided to change the method from POST to GET. Troubleshooting Q&As on stackoverflow.com suggested this method for test environments and when not using JS.
 
 ## Responsiveness
 
@@ -226,11 +230,7 @@ Responsiveness was tested throughout the project using Chrome Developer tools an
 
 Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by firstly converting the image to a webp file and also adding a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
 
-Before LCP preload was initiated:
-(image)
-
-After LCP preload was initiated:
-(image)
+(Lighthouse screenshots)
 
 ## User Stories Testing
 
@@ -240,6 +240,8 @@ Easily navigate through the site and learn more about the benefits of mindfulnes
 ![header-navbar](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/header-navbar.PNG?raw=true)
 Be able to easily identify the purpose of the site. The user can identify what this site is about from the name South West Yoga as well as the home page banner which mentions mindfulness and joining the classes on the beach.
 ![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
+The user can also watch a quick video on the benefits of mindfulness including mediation and yoga.
+![video]
 Find class timetables quickly and effortlessly. This is easily carried out by following the link to timetables in both the nav bar and benefits boxes.
 ![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
 ![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
