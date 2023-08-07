@@ -295,7 +295,6 @@ Manual testing was carried out on all elements and features of the site, ensurin
 
 ## Content
 
-- The text for the Home page was taken from Wikipedia Article A
 - Instructions on how to implement flexbox gallery grid on the Gallery page was taken from: https://www.youtube.com/@Divinector  
 - Instructions on how to create timetable on the Classes page was taken from: https://www.youtube.com/@GreatStackDev 
 - Utilised W3 Schools and StackOverflow websites for troubleshooting throughout the project
