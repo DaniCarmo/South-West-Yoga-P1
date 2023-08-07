@@ -105,6 +105,8 @@ As a returning user I want to:
 ### Video
 
 - A video on mindfulness is included in to the about page so the user can have more visual and audio information on the topic and generate interest in the benefits of mindfulness.
+
+![video](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/video.PNG?raw=true)
   
 ### Gallery
 
