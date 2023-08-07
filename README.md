@@ -228,11 +228,17 @@ Most bugs identified were fixed. The one identified and unfixed relates to Githu
 
 ## Responsiveness
 
-Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked here as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen.
+Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked below as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen. <https://github.com/DaniCarmo/South-West-Yoga-P1/tree/main/assets/testing-images>
 
-Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by firstly converting the image to a webp file and also adding a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
+Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by firstly converting the image to a webp file and also resizing the image so a smaller image is now included in the media queries for smaller screens. I also added a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
 
-(Lighthouse screenshots)
+![home](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/testing-images/lighthouse-home.png?raw=true)
+
+![about](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/testing-images/lighthouse-about.png?raw=true)
+
+![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/testing-images/lighthouse-gallery.png?raw=true)
+
+![classes](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/testing-images/lighthouse-classes.png?raw=true)
 
 ## User Stories Testing
 
