@@ -444,7 +444,9 @@ footer p {
     .benefits,
     .wrapper,
     #table {
-        background: url("../images/pink-sunset-small.webp") no-repeat center cover;
+        background: url("../images/pink-sunset-small.webp") no-repeat center;
+        background-size: cover;
+        background-color: #f88379;
     }
 }
 
