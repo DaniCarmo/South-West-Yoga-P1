@@ -185,7 +185,7 @@ The color scheme is based around a sunset, bringing in purple, red and peachy-pi
 
 The main color used throughout is #F88379 and the background color for the aside was also inspired by the hero image, taking the deeper purple colors I went with #705260.
 
-![color-scheme]()
+![color-scheme](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/color-scheme.PNG?raw=true)
 
 ## Images
 
