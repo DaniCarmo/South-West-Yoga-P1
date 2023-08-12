@@ -122,6 +122,7 @@ nav {
     border-bottom: #f88379 2px solid;
     background-size: cover;
     background-color: #f88379;
+    flex: 1;
 }
 
 #banner h1 {
@@ -281,6 +282,7 @@ form input[type="submit"] {
     background-size: cover;
     background-color: #f88379;
     border-bottom: #f88379 2px solid;
+    flex: 1;
 }
 
 .wrapper h1 {
@@ -323,6 +325,7 @@ img:hover {
     padding: 10%;
     background-color: #f88379;
     border-bottom: #f88379 2px solid;
+    flex: 1;
 }
 
 .containerTable {
