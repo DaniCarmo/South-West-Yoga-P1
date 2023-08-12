@@ -191,8 +191,6 @@ The main color used throughout is #F88379 and the background color for the aside
 
 All images were downloaded from Pexel. The main image used for the homepage banner, gallery and timetable backgrounds is a serene pink and purple hue picture of a sky mirrored in still water below.
 
-There is also a water image on the About page which is a blue aqua color and provides a nice contrast to the normal color scheme of the page and breaks up the more gentle colors, providing an eye-catching pop of color that isn’t too harsh.
-
 The Gallery page also has images from Pexel that show people practicing yoga and meditation on the beach, both solo and in groups, as well as friendly get togethers on the beach with food and music, to evoke a sense of community to the user.
 
 # Languages
