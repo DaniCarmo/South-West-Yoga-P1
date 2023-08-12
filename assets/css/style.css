@@ -22,6 +22,9 @@ body {
     font-family: 'Permanent Marker', cursive;
     font-size: 16px;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* social media links */
@@ -388,6 +391,7 @@ html {
 footer {
     height: 50px;
 }
+
 footer p {
     color: darkslategray;
     background-color: #f88379;
