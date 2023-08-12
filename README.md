@@ -46,6 +46,9 @@
   - [Manual Testing](#manual-testing)
 - [Deployment](#deployment)
   - [Navigate to the GitHub Repository](#navigate-to-the-github-repository)
+  - [Run Project Locally](#run-project-locally)
+    - [Clone the Repository](#clone-the-repository)
+    - [Download the Repository Manually](#download-the-repository-manually)
 - [Credits](#credits)
   - [Content](#content)
   - [Media](#media)
@@ -126,7 +129,7 @@ As a returning user I want to:
   
 ### Scroll to Top Button
 
-![scroll](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/back-to-top.PNG?raw=true)
+![scroll](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/images/red-arrow.png?raw=true)
 
 - This feature will exist on the bottom of all pages and allow the user to jump to the top of the page, which is very helpful when viewing on mobile or smaller tablet screens.
   
@@ -170,7 +173,7 @@ The addition of a blog to the site would engage the user more and create more of
 
 ## Fonts
 
-The fonts for the site came from https://fonts.googleapis.com
+The fonts for the site came from [Google Fonts](https://fonts.googleapis.com)
 
 The name and headings are Permanent Marker, while the smaller body text is Ysabeau Infant.
 
@@ -178,7 +181,7 @@ Permanent Marker offers an informal touch to the site and the rounded edges give
 
 ## Color Scheme
 
-The color scheme is based around a sunset, bringing in orange and pinks creates that sunset beach vibes that are being conveyed to the user. The colors provide a fun yet and serene viewing experience. The color scheme is by choice minimalist with the same colors used throughout the website, in keeping with the overall mood of a beach sunset. The background is a neutral white which in contrast to the soft oranges and pinks, provides a fresh and modern aspect to the website.
+The color scheme is based around a sunset, bringing in orange and peachy-pinks creates that sunset beach vibes that are being conveyed to the user. The colors provide a fun yet and serene viewing experience. The color scheme is by choice minimalist with the same colors used throughout the website, in keeping with the overall mood of a beach sunset. The background is a neutral white which in contrast to the soft oranges and pinks, provides a fresh and modern aspect to the website.
 
 ## Images
 
@@ -200,8 +203,8 @@ The two languages used are HTML and CSS.
 - Google maps was used to provide a map link
 - Github was used for hosting the site and storing the data and files
 - Google Chrome Developer Tools were used throughout to inspect elements and assist with troubleshooting and debugging
-- Image Color Picker (https://imagecolorpicker.com/en) was used to get color from banner image to use as background color in case of image failing to load, as the text is white so a colored background is required
-- Onlinecovert.com to convert main large images from .jpg to .webp, as suggested by prompt after Lighthouse analysis in dev tools testing
+- [Image Color Picker](https://imagecolorpicker.com/en) was used to get color from banner image to use as background color in case of image failing to load, as the text is white so a colored background is required
+- [Onlinecovert.com](https://www.onlineconvert.com/image-converter) to convert main large images from .jpg to .webp, as suggested by prompt after Lighthouse analysis in dev tools testing
   
 # Testing
 
@@ -224,11 +227,12 @@ The website was tested on the following browsers and was responsive and compatib
 - Microsoft Egde
 
 ## Unfixed Bugs
+
 Most bugs identified were fixed. The one identified and unfixed relates to Github not supporting the POST action method for the newsletter sign up form, after trouleshooting it was decided to change the method from POST to GET. Troubleshooting Q&As on stackoverflow.com suggested this method for test environments and when not using JS.
 
 ## Responsiveness
 
-Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked below as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen. <https://github.com/DaniCarmo/South-West-Yoga-P1/tree/main/assets/testing-images>
+Responsiveness was tested throughout the project using Chrome Developer tools and also ui.dev and responsivedesignchecker.com. All images and features were responsive in various screen sizes and quality was not affected as I was able to amend via media queries in my css file to ensure the website followed good UX design practices on all device screen sizes. Screenshots linked below as examples, site was tested on multiple view ports such as Iphone SE, Samsung Galaxy S8+, iPad Air, iPad Pro, Samsung Galaxy A51/71 as well as a 24 inch monitor screen. [Link to Test Screenshots](https://github.com/DaniCarmo/South-West-Yoga-P1/tree/main/assets/testing-images)
 
 Using Lighthouse to test responsivenes showed that the performance of the site on mobile was not ideal and the main attribute to this was the hero image being too large and not loading on time. Therefore I researched in to this issue and resolved it by firstly converting the image to a webp file and also resizing the image so a smaller image is now included in the media queries for smaller screens. I also added a preload link to the html file to preload the LCP and optimise the responsiveness of the site.
 
@@ -245,20 +249,33 @@ Using Lighthouse to test responsivenes showed that the performance of the site o
 As a first-time user I want to:
 
 Easily navigate through the site and learn more about the benefits of mindfulness, namely yoga and meditation. This is carried out via the nav bar which is dsplayed at the top of all four pages.
+
 ![header-navbar](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/header-navbar.PNG?raw=true)
+
 Be able to easily identify the purpose of the site. The user can identify what this site is about from the name South West Yoga as well as the home page banner which mentions mindfulness and joining the classes on the beach.
+
 ![hero-img](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/hero-img.PNG?raw=true)
+
 The user can also watch a quick video on the benefits of mindfulness including mediation and yoga.
+
 ![video](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/video.PNG?raw=true)
+
 Find class timetables quickly and effortlessly. This is easily carried out by following the link to timetables in both the nav bar and benefits boxes.
+
 ![benefits](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/benefits.PNG?raw=true)
+
 ![timetables](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/timetable.PNG?raw=true)
+
 View the website on both mobile and desktop devices. The site is fully repsonsive on various mobile, tablet and desktop devices, as per screen shots provided in seprate file.
 
 Get a sense of community and welcoming from the South West Yoga group. The user can get a sense of community via the gallery page as well as the About page which has more information on the teacher and group facilitator, providing a brief background helps make that connection with the user.
+
 ![about-pg](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/about-pg.PNG?raw=true)
+
 ![gallery](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/gallery.PNG?raw=true)
+
 Interact with SWY by following on the various social media platforms and signing up to the newsletter. Users can click on the social media links in the nav bar to follow SWY on Twitter, Instagram and Facebook, as well as sign up to the newsletter which is also a feature on all pages to encourage the user to sign up and participate.
+
 ![newsletter](https://github.com/DaniCarmo/South-West-Yoga-P1/blob/main/assets/readme-images/newsletter.PNG?raw=true)
 
 As a returning user I want to:
@@ -289,18 +306,38 @@ Manual testing was carried out on all elements and features of the site, ensurin
 2. Scroll Down to the Git Hub Pages Heading.
 3. Select 'Master Branch' as the source.
 4. Click the Save button.
-5. Click on the link to go to the live deployed page. Link to live wesbite: <https://danicarmo.github.io/South-West-Yoga-P1/>
+5. Click on the link to go to the live deployed page. Link to live wesbite: [South West Yoga](https://danicarmo.github.io/South-West-Yoga-P1/)
+
+## Run Project Locally
+
+### Clone the Repository
+
+1. Navigate to the GitHub Repository.
+2. Click the Code drop-down menu.
+3. Click the HTTPS sub-heading and copy the link.
+4. Open your preferred IDE.
+5. Open a terminal in the directory of your choice, type git clone and paste the link.
+6. A clone of the repository will now be created on your machine.
+
+### Download the Repository Manually
+
+1. Navigate to the GitHub Repository.
+2. Click the Code drop-down menu and Download ZIP.
+3. Locate the ZIP file and extract it to a folder where you want the repository to be saved.
+4. Open your preferred IDE.
+5. Navigate to the directory where the repository was extracted.
+6. You will now have the contents of the project available offline on your machine.
 
 # Credits
 
 ## Content
 
-- Instructions on how to implement flexbox gallery grid on the Gallery page was taken from: https://www.youtube.com/@Divinector  
-- Instructions on how to create timetable on the Classes page was taken from: https://www.youtube.com/@GreatStackDev 
-- Utilised W3 Schools and StackOverflow websites for troubleshooting throughout the project
+- Instructions on how to implement flexbox gallery grid on the Gallery page was taken from [@Divinector](https://www.youtube.com/@Divinector)
+- Instructions on how to create timetable on the Classes page was taken from [@GreatStackDev](https://www.youtube.com/@GreatStackDev)
+- Utilised [W3 Schools](https://www.w3schools.com/) and [StackOverflow](https://stackoverflow.com/) for troubleshooting throughout the project.
 
 ## Media
 
-- The photos used throughout the website were downloaded from Pexels.com
-- The social media icons in the header were taken from Font Awesome
-- Video on the About page is embeded from YouTube
+- The photos used throughout the website were downloaded from [Pexels](https://www.pexels.com/)
+- The social media icons in the header were taken from [Font Awesome](https://fontawesome.com/)
+- Video on the About page is embeded from a YouTube chanel [My Best Self 101](https://www.youtube.com/watch?v=q1VX_RgRHPs&t=1s&pp=ygUTd2hhdCBpcyBtaW5kZnVsbmVzcw%3D%3D)
