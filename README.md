@@ -181,7 +181,11 @@ Permanent Marker offers an informal touch to the site and the rounded edges give
 
 ## Color Scheme
 
-The color scheme is based around a sunset, bringing in orange and peachy-pinks creates that sunset beach vibes that are being conveyed to the user. The colors provide a fun yet and serene viewing experience. The color scheme is by choice minimalist with the same colors used throughout the website, in keeping with the overall mood of a beach sunset. The background is a neutral white which in contrast to the soft oranges and pinks, provides a fresh and modern aspect to the website.
+The color scheme is based around a sunset, bringing in purple, red and peachy-pinks creates that sunset beach vibes that are being conveyed to the user. The colors provide a fun yet and serene viewing experience. The color scheme is by choice minimalist with the same colors used throughout the website, in keeping with the overall mood of a beach sunset. The background is a neutral white which in contrast to the soft red and pinks, provides a fresh and modern aspect to the website.
+
+The main color used throughout is #F88379 and the background color for the aside was also inspired by the hero image, taking the deeper purple colors I went with #705260.
+
+![color-scheme]()
 
 ## Images
 
