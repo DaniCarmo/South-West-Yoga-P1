@@ -385,6 +385,9 @@ html {
 }
 
 /*footer*/
+footer {
+    height: 50px;
+}
 footer p {
     color: darkslategray;
     background-color: #f88379;
